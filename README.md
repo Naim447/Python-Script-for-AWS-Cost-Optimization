@@ -217,6 +217,7 @@ if tags.get('AutoShutdown') == 'True':
         InstanceIds=[instance_id]
     )
 ```
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/66b54e31-6ede-41b1-8969-1b5b06f7d413" />
 
 ---
 
